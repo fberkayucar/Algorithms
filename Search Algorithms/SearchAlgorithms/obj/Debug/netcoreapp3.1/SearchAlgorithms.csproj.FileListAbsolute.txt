@@ -1,0 +1,26 @@
+C:\Users\asus\Downloads\DSA_2020-main (1)\DSA_2020-main\SearchAlgorithms\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.exe
+C:\Users\asus\Downloads\DSA_2020-main (1)\DSA_2020-main\SearchAlgorithms\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.deps.json
+C:\Users\asus\Downloads\DSA_2020-main (1)\DSA_2020-main\SearchAlgorithms\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.runtimeconfig.json
+C:\Users\asus\Downloads\DSA_2020-main (1)\DSA_2020-main\SearchAlgorithms\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.runtimeconfig.dev.json
+C:\Users\asus\Downloads\DSA_2020-main (1)\DSA_2020-main\SearchAlgorithms\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.dll
+C:\Users\asus\Downloads\DSA_2020-main (1)\DSA_2020-main\SearchAlgorithms\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.pdb
+C:\Users\asus\Downloads\DSA_2020-main (1)\DSA_2020-main\SearchAlgorithms\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\DSA_2020-main (1)\DSA_2020-main\SearchAlgorithms\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\DSA_2020-main (1)\DSA_2020-main\SearchAlgorithms\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.AssemblyInfo.cs
+C:\Users\asus\Downloads\DSA_2020-main (1)\DSA_2020-main\SearchAlgorithms\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\DSA_2020-main (1)\DSA_2020-main\SearchAlgorithms\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.dll
+C:\Users\asus\Downloads\DSA_2020-main (1)\DSA_2020-main\SearchAlgorithms\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.pdb
+C:\Users\asus\Downloads\DSA_2020-main (1)\DSA_2020-main\SearchAlgorithms\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.genruntimeconfig.cache
+C:\Users\asus\Desktop\SearchAlgorithms\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.exe
+C:\Users\asus\Desktop\SearchAlgorithms\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.deps.json
+C:\Users\asus\Desktop\SearchAlgorithms\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.runtimeconfig.json
+C:\Users\asus\Desktop\SearchAlgorithms\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.runtimeconfig.dev.json
+C:\Users\asus\Desktop\SearchAlgorithms\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.dll
+C:\Users\asus\Desktop\SearchAlgorithms\SearchAlgorithms\bin\Debug\netcoreapp3.1\SearchAlgorithms.pdb
+C:\Users\asus\Desktop\SearchAlgorithms\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\SearchAlgorithms\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.AssemblyInfo.cs
+C:\Users\asus\Desktop\SearchAlgorithms\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\SearchAlgorithms\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.dll
+C:\Users\asus\Desktop\SearchAlgorithms\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.pdb
+C:\Users\asus\Desktop\SearchAlgorithms\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.genruntimeconfig.cache
+C:\Users\asus\Desktop\SearchAlgorithms\SearchAlgorithms\obj\Debug\netcoreapp3.1\SearchAlgorithms.csproj.AssemblyReference.cache

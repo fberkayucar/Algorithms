@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\ıDRİS SORTİNG\SortingAlgorithm_Idris\obj\Debug\netcoreapp3.1\SortingAlgorithm_Idris.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\ıDRİS SORTİNG\SortingAlgorithm_Idris\obj\Debug\netcoreapp3.1\SortingAlgorithm_Idris.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\ıDRİS SORTİNG\SortingAlgorithm_Idris\obj\Debug\netcoreapp3.1\SortingAlgorithm_Idris.AssemblyInfo.cs
+C:\Users\asus\Desktop\ıDRİS SORTİNG\SortingAlgorithm_Idris\obj\Debug\netcoreapp3.1\SortingAlgorithm_Idris.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ıDRİS SORTİNG\SortingAlgorithm_Idris\bin\Debug\netcoreapp3.1\SortingAlgorithm_Idris.exe
+C:\Users\asus\Desktop\ıDRİS SORTİNG\SortingAlgorithm_Idris\bin\Debug\netcoreapp3.1\SortingAlgorithm_Idris.deps.json
+C:\Users\asus\Desktop\ıDRİS SORTİNG\SortingAlgorithm_Idris\bin\Debug\netcoreapp3.1\SortingAlgorithm_Idris.runtimeconfig.json
+C:\Users\asus\Desktop\ıDRİS SORTİNG\SortingAlgorithm_Idris\bin\Debug\netcoreapp3.1\SortingAlgorithm_Idris.runtimeconfig.dev.json
+C:\Users\asus\Desktop\ıDRİS SORTİNG\SortingAlgorithm_Idris\bin\Debug\netcoreapp3.1\SortingAlgorithm_Idris.dll
+C:\Users\asus\Desktop\ıDRİS SORTİNG\SortingAlgorithm_Idris\bin\Debug\netcoreapp3.1\SortingAlgorithm_Idris.pdb
+C:\Users\asus\Desktop\ıDRİS SORTİNG\SortingAlgorithm_Idris\obj\Debug\netcoreapp3.1\SortingAlgorithm_Idris.dll
+C:\Users\asus\Desktop\ıDRİS SORTİNG\SortingAlgorithm_Idris\obj\Debug\netcoreapp3.1\SortingAlgorithm_Idris.pdb
+C:\Users\asus\Desktop\ıDRİS SORTİNG\SortingAlgorithm_Idris\obj\Debug\netcoreapp3.1\SortingAlgorithm_Idris.genruntimeconfig.cache

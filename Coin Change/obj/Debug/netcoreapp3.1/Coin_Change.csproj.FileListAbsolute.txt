@@ -1,0 +1,26 @@
+C:\Users\asus\Desktop\idris coin change\Coin_Change_Idris\obj\Debug\netcoreapp3.1\Coin_Change_Idris.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\idris coin change\Coin_Change_Idris\obj\Debug\netcoreapp3.1\Coin_Change_Idris.AssemblyInfo.cs
+C:\Users\asus\Desktop\idris coin change\Coin_Change_Idris\obj\Debug\netcoreapp3.1\Coin_Change_Idris.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\idris coin change\Coin_Change_Idris\bin\Debug\netcoreapp3.1\Coin_Change_Idris.exe
+C:\Users\asus\Desktop\idris coin change\Coin_Change_Idris\bin\Debug\netcoreapp3.1\Coin_Change_Idris.deps.json
+C:\Users\asus\Desktop\idris coin change\Coin_Change_Idris\bin\Debug\netcoreapp3.1\Coin_Change_Idris.runtimeconfig.json
+C:\Users\asus\Desktop\idris coin change\Coin_Change_Idris\bin\Debug\netcoreapp3.1\Coin_Change_Idris.runtimeconfig.dev.json
+C:\Users\asus\Desktop\idris coin change\Coin_Change_Idris\bin\Debug\netcoreapp3.1\Coin_Change_Idris.dll
+C:\Users\asus\Desktop\idris coin change\Coin_Change_Idris\bin\Debug\netcoreapp3.1\Coin_Change_Idris.pdb
+C:\Users\asus\Desktop\idris coin change\Coin_Change_Idris\obj\Debug\netcoreapp3.1\Coin_Change_Idris.dll
+C:\Users\asus\Desktop\idris coin change\Coin_Change_Idris\obj\Debug\netcoreapp3.1\Coin_Change_Idris.pdb
+C:\Users\asus\Desktop\idris coin change\Coin_Change_Idris\obj\Debug\netcoreapp3.1\Coin_Change_Idris.genruntimeconfig.cache
+C:\Users\asus\Desktop\idris coin change\Coin_Change_Idris\obj\Debug\netcoreapp3.1\Coin_Change_Idris.csproj.AssemblyReference.cache
+C:\Users\uluid\OneDrive\Masaüstü\Coin_Change_Idris_2\Coin_Change_Idris\bin\Debug\netcoreapp3.1\Coin_Change_Idris.exe
+C:\Users\uluid\OneDrive\Masaüstü\Coin_Change_Idris_2\Coin_Change_Idris\bin\Debug\netcoreapp3.1\Coin_Change_Idris.deps.json
+C:\Users\uluid\OneDrive\Masaüstü\Coin_Change_Idris_2\Coin_Change_Idris\bin\Debug\netcoreapp3.1\Coin_Change_Idris.runtimeconfig.json
+C:\Users\uluid\OneDrive\Masaüstü\Coin_Change_Idris_2\Coin_Change_Idris\bin\Debug\netcoreapp3.1\Coin_Change_Idris.runtimeconfig.dev.json
+C:\Users\uluid\OneDrive\Masaüstü\Coin_Change_Idris_2\Coin_Change_Idris\bin\Debug\netcoreapp3.1\Coin_Change_Idris.dll
+C:\Users\uluid\OneDrive\Masaüstü\Coin_Change_Idris_2\Coin_Change_Idris\bin\Debug\netcoreapp3.1\Coin_Change_Idris.pdb
+C:\Users\uluid\OneDrive\Masaüstü\Coin_Change_Idris_2\Coin_Change_Idris\obj\Debug\netcoreapp3.1\Coin_Change_Idris.csproj.AssemblyReference.cache
+C:\Users\uluid\OneDrive\Masaüstü\Coin_Change_Idris_2\Coin_Change_Idris\obj\Debug\netcoreapp3.1\Coin_Change_Idris.AssemblyInfoInputs.cache
+C:\Users\uluid\OneDrive\Masaüstü\Coin_Change_Idris_2\Coin_Change_Idris\obj\Debug\netcoreapp3.1\Coin_Change_Idris.AssemblyInfo.cs
+C:\Users\uluid\OneDrive\Masaüstü\Coin_Change_Idris_2\Coin_Change_Idris\obj\Debug\netcoreapp3.1\Coin_Change_Idris.csproj.CoreCompileInputs.cache
+C:\Users\uluid\OneDrive\Masaüstü\Coin_Change_Idris_2\Coin_Change_Idris\obj\Debug\netcoreapp3.1\Coin_Change_Idris.dll
+C:\Users\uluid\OneDrive\Masaüstü\Coin_Change_Idris_2\Coin_Change_Idris\obj\Debug\netcoreapp3.1\Coin_Change_Idris.pdb
+C:\Users\uluid\OneDrive\Masaüstü\Coin_Change_Idris_2\Coin_Change_Idris\obj\Debug\netcoreapp3.1\Coin_Change_Idris.genruntimeconfig.cache

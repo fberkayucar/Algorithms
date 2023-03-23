@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SortingAlgorithm_Idris/1.0.0": {
+        "runtime": {
+          "SortingAlgorithm_Idris.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortingAlgorithm_Idris/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
